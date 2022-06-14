@@ -1,0 +1,3 @@
+## 1STEP.AI
+
+1STEP.AI is a professional AI cognitive intelligence service provider. Powered by NLP, Knowledge Graph and AI platform, 1STEP.AI provides customer with trustworthy services and solutions to help customers creatively solve the problems concerning external data resources, data silos and system integration, achieve the goals of data-driven and intelligent decision-making during digital transformation. We have successfully served leading customers in finance, automobile, retail and various industries, including L'Oreal, Estée Lauder, Daimler Mercedes-Benz, NIO, Haier, Tencent, China Construction Bank etc.
